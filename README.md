@@ -30,9 +30,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="NotNoahDev's Stats" src="https://github-readme-stats.vercel.app/api?username=NotNoahDev&show_icons=true&theme=radical" />
-
-</details>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoahDev&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotNoahDev&show_icons=true&theme=radical&line_height=21"/>
