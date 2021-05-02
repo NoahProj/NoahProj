@@ -36,3 +36,6 @@
   <img align="left" alt="NotNoahDev's Stats" src="https://github-readme-stats.vercel.app/api?username=NotNoahDev&show_icons=true&theme=radical" />
 
 </details>
+
+### My Public Discord bot | Over 200+ Commands!
+[![banner](https://cdn.discordapp.com/attachments/813528661650440195/837700771024732241/XoXo-Promotion-PICTURE.png)
