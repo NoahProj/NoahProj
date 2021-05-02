@@ -34,3 +34,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotNoahDev&show_icons=true&theme=radical&line_height=21"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotNoahDev&theme=radical&hide_langs_below=1&layout=compact" />
 
+* **Community Server // Support Server**
+</br></br>
+<a href="https://discord.gg/UnDpr2kEpB"><img src="https://invidget.switchblade.xyz/UnDpr2kEpB"/></a>
+<br><br>
