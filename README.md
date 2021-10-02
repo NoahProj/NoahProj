@@ -1,15 +1,10 @@
-### Hi there, I am Nøah 👋
+### Hi there, I am Nøah �
 
-## I'm a Front end Developer!
+## Owner of Melon Client!
 
-- 🌱 I’m currently learning C++ & Java
-- 👯 I’m looking to collaborate with other developers/creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I learned Javascript by my self!
-
-* **Community Server // Support Server**
+* **Current Project:**
 </br></br>
-<a href="https://discord.gg/Noah"><img src="https://invidget.switchblade.xyz/UnDpr2kEpB"/></a>
+<a href="https://discord.gg/MelonClient"><img src="https://invidget.switchblade.xyz/UnDpr2kEpB"/></a>
 <br><br>
 
 ### Coding Languages & Tools:
