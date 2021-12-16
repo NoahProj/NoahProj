@@ -1,11 +1,3 @@
-### Hi there, I am Nøah �
-
-## Owner of Melon Client!
-
-* **Current Project:**
-</br></br>
-<a href="https://discord.gg/MelonClient"><img src="https://invidget.switchblade.xyz/UnDpr2kEpB"/></a>
-<br><br>
 
 ### Coding Languages & Tools:
 
